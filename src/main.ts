@@ -13,7 +13,7 @@ const client = new NeynarAPIClient('');
 //     console.log(`res--- ${JSON.stringify(res)}`)
 // })
 
-// client.lookUpCastByHashOrWarpcastUrl('0xa5972171848adc7f7d71ab9e4243ae4750a7bde2', "hash").then((res) => {
+// client.lookUpCastByHashOrWarpcastUrl('', "hash").then((res) => {
 //     console.log(`res0--- ${JSON.stringify(res)}`)
 // })
 
